@@ -1,0 +1,21 @@
+ClientCode	Application	Feature	Upin	Comment
+1003	Campaigns	CMP	TEST_1003_CMP_USER1	Use only for Campaigns testing.
+1003	Campaigns	CMP	TEST_1003_CMP_USER2	Use only for Campaigns testing.
+1003	Campaigns	CMP	TEST_1003_CMP_USER3	Use only for Campaigns testing.
+1003	Campaigns	CMP	TEST_1003_CMP_USER4	Use only for Campaigns testing.
+1003	Hidden Health Risk Screening	HHR	TEST_1003_BHHR_USER1	Use only for Hidden Health Risk Screening testing.
+1003	Hidden Health Risk Screening	HHR	TEST_1003_BHHR_USER2	Use only for Hidden Health Risk Screening testing.
+1003	Hidden Health Risk Screening	HHR	TEST_1003_BHHR_USER3	Use only for Hidden Health Risk Screening testing.
+1003	Hidden Health Risk Screening	HHR	TEST_1003_BHHR_USER4	Use only for Hidden Health Risk Screening testing.
+1003	Incentive Management	IM	TEST_1003_BIM_USER1	Use only for Incentive Management testing.
+1003	Incentive Management	IM	TEST_1003_BIM_USER2	Use only for Incentive Management testing.
+1003	Incentive Management	IM	TEST_1003_BIM_USER3	Use only for Incentive Management testing.
+1003	Incentive Management	IM	TEST_1003_BIM_USER4	Use only for Incentive Management testing.
+1003	Benefits Quiz	QUIZ	TEST_1003_BQUIZ_USER1	Use only for Benefits Quiz testing.
+1003	Benefits Quiz	QUIZ	TEST_1003_BQUIZ_USER2	Use only for Benefits Quiz testing.
+1003	Benefits Quiz	QUIZ	TEST_1003_BQUIZ_USER3	Use only for Benefits Quiz testing.
+1003	Benefits Quiz	QUIZ	TEST_1003_BQUIZ_USER4	Use only for Benefits Quiz testing.
+1003	Positive Testing	GEN	TEST_1003_GEN_USER1	Use only for Positive testing.
+1003	Positive Testing	GEN	TEST_1003_GEN_USER2	Use only for Positive testing.
+1003	Positive Testing	GEN	TEST_1003_GEN_USER3	Use only for Positive testing.
+1003	Positive Testing	GEN	TEST_1003_GEN_USER4	Use only for Positive testing.
